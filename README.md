@@ -17,6 +17,7 @@ Seu desafio é criar uma query que retorne as seguintes colunas:
 * maximo_tempo_reserva
 
 AND retornar apenas os livros que podem ser reservados por um tempo de reserva maior que a média de tempo de reserva de uma mesma prateleira
+
 Dica: Tente usar sub-queries
 
 ---
